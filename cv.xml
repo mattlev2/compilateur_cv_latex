@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cv>
+    <meta>
+        <nom>Gille Levenson</nom>
+        <prenom>Matthias</prenom>
+        <naissance>22/05/1993</naissance>
+        <courriel>matthias.gille-levenson@ens-lyon.fr</courriel>
+    </meta>
+    <main>
+        <cursus>
+            <annee n="2018-2019">
+                <entree>
+                    <francais>Première année de doctorat sous la direction de Carlos
+                        <nom>Heusch</nom>. Laboratoire de rattachement: <lien
+                        href="http://ciham.ish-lyon.cnrs.fr/">CIHAM</lien> (UMR 6848)</francais>
+                    <anglais>First year of Ph.D Thesis, under the supervision of <pers>Carlos
+                        <nom>Heusch</nom></pers>, <pers>Marjorie <nom>Burghart</nom></pers> and
+                        <pers orcid="0000-0002-3848-9230">Jesús <nom>Rodríguez Velasco</nom></pers>.
+                        <titre>La version B du <titre><titre>Regimiento de los prínçipes</titre>
+                        glosado</titre>: étude et édition critique de III,3</titre></anglais>
+                </entree>
+            </annee>
+
+
+            <annee n="2017-2018">
+                <entree>
+                    <francais>Préparation de la thèse (4ème année à l'ÉNS de Lyon). </francais>
+                    <anglais>Preparation of the Ph.D subject.</anglais>
+                </entree>
+                <entree>
+                    <francais>Suivi d'un atelier en édition numérique à Cambridge (Royaume Uni) en
+                        avril 2018, dans la continuité du DEMM (<en>Digital Encoding of Medieval
+                        Manuscripts</en>).</francais>
+                    <anglais>Workshop on Digital Edition, Cambridge (UK), april 2018.</anglais>
+                </entree>
+                <entree>
+                    <francais>Participation à la session 2018 de la formation EDEEN (École d'été en
+                        humanités numériques) à Grenoble, organisée par l'Université Grenoble-Alpes
+                        et la MSH Alpes (Grenoble, 28 mai-2 juin).</francais>
+                    <anglais>2018 EDEEN (<fr>École d'été en humanités numériques</fr>) workshop,
+                        Grenoble University, organized by Elena Pierazzo. 28 may-2 june
+                        2018.</anglais>
+                </entree>
+                <entree>
+                    <francais>Participation à l'atelier 2018 du consortium CAHIER (Montpellier,
+                        26-29 juin 2018).</francais>
+                    <anglais>2018 CAHIER (<cit><fr>Corpus d’auteurs pour les humanités :
+                        informatisation, édition, recherche</fr></cit>) consortium workshop,
+                        Montpellier, 26-29 june 2018.</anglais>
+                </entree>
+            </annee>
+
+
+            <annee n="2016-2017">
+                <entree>
+                    <francais>Préparation et obtention du concours de l'Agrégation d'Espagnol. </francais>
+                    <anglais>Qualified as a teacher after preparing the <fr>Agrégation</fr> in
+                        Spanish (3th/75)</anglais>
+                </entree>
+            </annee>
+
+
+            <annee n="2015-2016">
+                <entree>
+                    <francais> Master II d'études hispanophones du département d'études lusophones
+                        et hispanophones de l'ÉNS de Lyon. Suivi des cours Master <titre>Patrimonio
+                        Textual y humanidades digitales</titre> de l’Université de Salamanque dans
+                        le cadre du programme Erasmus. Mémoire préparé sous la direction de
+                        <pers>Carlos <nom>Heusch</nom></pers> et de <pers
+                        orcid="0000-0002-2676-0388">Francisco <nom>Bautista</nom></pers>: "<titre>La
+                        version B du <es><titre>Regimiento de los príncipes</titre>
+                        glosado</es></titre>. Note obtenue: 19. </francais>
+                    <anglais>Master II in Spanish, ÉNS de Lyon. Graduate humanities classes in the
+                        University of Salamanca, as an Erasmus Student. Research Dissertation on
+                        <titre>Le <titre><titre>Regimiento de los príncipes</titre> glosado</titre>.
+                        Étude et édition critique</titre>, supervised by <pers
+                        orcid="0000-0002-2676-0388">Francisco <nom>Bautista</nom></pers> and
+                        <pers>Carlos <nom>Heusch</nom></pers>.</anglais>
+                </entree>
+                <entree>
+                    <francais>Suivi de la formation <en>Digital Encoding of Medieval
+                        Manuscripts</en> (DEMM) financée par l’Union Européenne. Trois semaines de
+                        stage à Vienne (Abbaye de Klosterneuburg), Lyon (ÉNS de Lyon), Londres
+                        (Queen Mary University). </francais>
+                    <anglais>Digital Encoding of Medieval Manuscripts (DEMM) workshop, three weeks
+                        in three european cities: Wien (Klosterneuburg abbey), Lyon (ÉNS de Lyon)
+                        and London (Queen Mary University).</anglais>
+                </entree>
+            </annee>
+
+
+            <annee n="2014-2015">
+                <entree>
+                    <francais>Master I d'études hispanophones au sein du département d'études
+                        lusophones et hispanophones de l'ÉNS de Lyon. Spécialisation en philologie
+                        castillane et en étude de textes du bas-Moyen Âge. Mémoire préparé sous la
+                        direction de Carlos Heusch:<titre>Edición crítica de dos textos de Pedro de
+                        Chinchilla</titre>. Note obtenue: 18.</francais>
+                    <anglais>Master I in Spanish, ÉNS de Lyon. Specialization on medieval philology
+                        and ecdotics. Dissertation: <titre>Edición crítica de dos textos de Pedro de
+                        Chinchilla</titre>, supervised by <pers>Carlos
+                        <nom>Heusch</nom></pers>.</anglais>
+                </entree>
+                <entree>
+                    <francais>Stage d’ecdotique des Sources chrétiennes (Lyon, février
+                        2015).</francais>
+                    <anglais>Workshop on Ecdotics, Sources chrétiennes, Lyon, february
+                        2015.</anglais>
+                </entree>
+                <!--<entree>
+                    <francais>Cours d’ouverture du Master <titre>Patrimonio textual y humanidades
+                        digitales</titre>, (Université de Salamanque, juin 2015).</francais>
+                    <anglais/>
+                </entree>-->
+
+            </annee>
+
+
+            <annee n="2013-2014">
+                <francais>
+                    <entree>
+                        <francais>Licence 3, Université Lumière Lyon 2-ÉNS de Lyon. </francais>
+                        <anglais>Licence in Spanish, Université Lumière Lyon-II, ÉNS de
+                            Lyon.</anglais>
+                    </entree>
+                </francais>
+                <entree>
+                    <francais>Séminaire d’édition de textes de Gisèle Besson, ÉNS Lyon.</francais>
+                    <anglais>Seminar in ecdotics, Gisèle Besson, ÉNS Lyon.</anglais>
+                </entree>
+                <entree>
+                    <francais>Stage d'introduction au Grec ancien (ILOAM, Université de Lausanne,
+                        été 2014).</francais>
+                    <anglais>Introductory course to Ancient Greek, Lausanne University, july
+                        2014.</anglais>
+                </entree>
+                <!--<entree>
+                    <francais>Introduction à la linguistique des langues sémitiques (cours de
+                        Georges Bohas, Lausanne, dans le cadre du stage ILOAM).</francais>
+                    <anglais>Introduction to linguistics of the semitic languages.</anglais>
+                </entree>-->
+            </annee>
+
+
+            <annee n="2012-2013">
+                <entree>
+                    <francais>Khâgne, Lycée Joffre (Montpellier). Préparation aux concours des ÉNS.
+                        Admis à l'ÉNS de Lyon; admissible à l'ÉNS de Paris.</francais>
+                    <anglais>Second year of Classe Préparatoire littéraire, Montpellier. Success at
+                        the entrance exam for the ÉNS de Lyon.</anglais>
+                </entree>
+            </annee>
+
+
+            <annee n="2011-2012">
+                <entree>
+                    <francais>Hypokhâgne, Lycée Joffre (Montpellier).</francais>
+                    <anglais>First year of Classe Préparatoire littéraire, Montpellier. Success at
+                        the entrance exam for the ÉNS de Lyon.</anglais>
+                </entree>
+            </annee>
+        </cursus>
+
+
+
+        <enseignement>
+            <annee n="2018-2019">
+                <entree>
+                    <francais>Organisation et animation de la formation <lien
+                        href="https://cosme.hypotheses.org/1117">XSLT COSME 2019</lien> en
+                        collaboration avec trois autres doctorant.es/docteurs. <lien
+                        href="https://github.com/gabays/Cours\_COSME\_2019">Lien vers le dépôt de la
+                        formation</lien>.</francais>
+                    <anglais>Organization and animation of a training course focused on XSLT (<lien
+                        href="https://cosme.hypotheses.org/1117">COSME XSLT Course 2019</lien>).
+                        Link to git repository: <lien
+                        href="https://github.com/gabays/Cours\_COSME\_2019">here</lien>.</anglais>
+                </entree>
+                <entree>
+                    <francais>Cours de version classique, niveau bac+3</francais>
+                    <anglais>Graduate TD at ÉNS de Lyon, <titre>Version classique</titre>
+                        (translation of text of the <esp>Siglo de Oro</esp>)</anglais>
+                </entree>
+                <entree>
+                    <francais>Cours de méthodologie de la recherche. Thème du cours: la publication
+                        scientifique: enjeux économiques, juridiques, éditoriaux et techniques. Une
+                        partie du cours a consisté en une présentation de la publication
+                        scientifique sous ces différents prismes, et une autre a consisté en une
+                        initiation à la production de documents scientifiques avec le
+                        logiciel/langage de typographie LaTeX.</francais>
+                    <anglais>Graduate and undergraduate TD, methodology of research. I focused my
+                        course on the economic, juridic, technical issues of the <cit>scientific
+                        publication</cit>, on one hand; on the other hand I did an introduction to
+                        LaTeX for researchers.</anglais>
+                </entree>
+            </annee>
+            <annee n="2017-2018">
+                <entree>
+                    <francais>Poste de khôlleur dans deux lycées lyonnais (La Martinière-Duchère et
+                        Juliette Récamier).</francais>
+                    <anglais>Preparation sessions for oral exams in Spanish in CPGE (<fr>Classe
+                        Préparatoire aux Grandes Écoles</fr>) at Lycée La Martinière Duchère and
+                        Lycée Récamier, Lyon.</anglais>
+                </entree>
+            </annee>
+        </enseignement>
+
+
+
+
+
+
+
+        <competences>
+            <entree type="langues">
+                <francais>Français, Espagnol: parlé couramment. Anglais : lu, écrit,
+                    parlé.</francais>
+                <anglais>Bilingual in French and Spanish. European level C1 in English.</anglais>
+            </entree>
+            <entree type="info">
+                <francais>Maîtrise des méthodes et outils d'édition électronique selon le standard
+                    XML TEI/P5. Utilisation courante des langages LaTeX, xml, xsl, css et html.
+                    Compréhension et utilisation du javascript et du xquery. Expérience dans la
+                    construction de bases de données XML. </francais>
+                <anglais>Frequent use of the methods and tools of the digital edition: XML-TEI/P5.
+                    Regular use of the xml, xsl, LaTeX, css, html languages. Current use of bash
+                    scripts. Understanding and use of javascript and XQuery. Experience in
+                    construction of XML databases (with eXist-db technologies).</anglais>
+            </entree>
+        </competences>
+
+
+
+
+
+        <publications>
+            <publication>
+                <entree type="dataset"><titre>Modèle de reconnaissance optique de caractères ocropy
+                    - Incunables sévillans
+                    1494-1500</titre><!--ajouter regle dataset +jouer avec les variables pour réduire la quantité de texte-->.
+                    22 décembre 2018. <lien href="https://doi.org/10.5281/zenodo.2504783"><img
+                    lien="../img/zenodo2504784.png" echelle="0.55"/></lien> </entree>
+            </publication>
+            <communications>
+                <entree><titre>L'évolution du <titre>Regimiento de los prínçipes</titre>
+                    (1345-1494), au service du pouvoir ?</titre>Séminaire international:<lien
+                    href="https://recherche.univ-pau.fr/fr/accueil/cpim.html"> Les cultures
+                    politiques dans la Péninsule ibérique et au Maghreb</lien>, <lieu>Bielle</lieu>,
+                    octobre 2019. </entree>
+                <entree><titre>Construire l'édition numérique d'une tradition textuelle complexe:
+                    propositions pour le <titre>Regimiento de los prínçipes</titre></titre>. Atelier
+                    IRPALL <cit>La fabrique du texte</cit>, <lieu>Toulouse</lieu>, février
+                    2019.</entree>
+            </communications>
+        </publications>
+    </main>
+</cv>
