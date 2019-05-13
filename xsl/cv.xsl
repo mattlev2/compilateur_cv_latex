@@ -573,7 +573,7 @@ Born on </xsl:text>
                     
                     \entry*
                 </xsl:text>
-                <xsl:apply-templates/>
+                <xsl:apply-templates select="francais"/>
             </xsl:for-each>
             <xsl:text>
                 \subrubric{Publications}
@@ -583,7 +583,7 @@ Born on </xsl:text>
                     
                     \entry*
                 </xsl:text>
-                <xsl:apply-templates/>
+                <xsl:apply-templates select="francais"/>
             </xsl:for-each>
             <xsl:text>\end{rubric}
 
@@ -635,7 +635,7 @@ Born on </xsl:text>
                     
                     \entry*
                 </xsl:text>
-                <xsl:apply-templates/>
+                <xsl:apply-templates select="anglais"/>
             </xsl:for-each>
             <xsl:text>
                 \subrubric{Publications}
@@ -645,7 +645,7 @@ Born on </xsl:text>
                     
                     \entry*
                 </xsl:text>
-                <xsl:apply-templates/>
+                <xsl:apply-templates select="anglais"/>
             </xsl:for-each>
             <xsl:text>\end{rubric}
 
@@ -663,7 +663,12 @@ Born on </xsl:text>
         <xsl:if test="@orcid">
             <xsl:text>\href{https://orcid.org/</xsl:text>
             <xsl:value-of select="@orcid"/>
-            <xsl:text>}{\includegraphics[scale=0.025]{../img/orcid.png}}</xsl:text>
+            <xsl:text>}{\includegraphics[scale=0.025]{img/orcid.png}}</xsl:text>
+        </xsl:if>
+        <xsl:if test="@idref">
+            <xsl:text>\href{https://www.idref.fr/</xsl:text>
+            <xsl:value-of select="@idref"/>
+            <xsl:text>}{\textsuperscript{\includegraphics[scale=0.025]{img/idref.png}}}</xsl:text>
         </xsl:if>
     </xsl:template>
 

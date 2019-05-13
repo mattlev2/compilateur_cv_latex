@@ -10,14 +10,18 @@
         <cursus>
             <annee n="2018-2019">
                 <entree>
-                    <francais>Première année de doctorat sous la direction de Carlos
-                        <nom>Heusch</nom>. Laboratoire de rattachement: <lien
-                        href="http://ciham.ish-lyon.cnrs.fr/">CIHAM</lien> (UMR 6848)</francais>
-                    <anglais>First year of Ph.D Thesis, under the supervision of <pers>Carlos
-                        <nom>Heusch</nom></pers>, <pers>Marjorie <nom>Burghart</nom></pers> and
-                        <pers orcid="0000-0002-3848-9230">Jesús <nom>Rodríguez Velasco</nom></pers>.
-                        <titre>La version B du <titre><titre>Regimiento de los prínçipes</titre>
-                        glosado</titre>: étude et édition critique de III,3</titre></anglais>
+                    <francais>Première année de doctorat sous la direction de <pers
+                        idref="055838413">Carlos <nom>Heusch</nom></pers>. Laboratoire de
+                        rattachement: <lien href="http://ciham.ish-lyon.cnrs.fr/">CIHAM</lien> (UMR
+                        6848). Démarches en cours pour monter une co-direction avec <pers
+                        orcid="0000-0002-3848-9230">Jesús <nom>Rodríguez Velasco</nom></pers> et
+                        <pers idref="178995819">Marjorie <nom>Burghart</nom></pers>.</francais>
+                    <anglais>First year of Ph.D Thesis, under the supervision of <pers
+                        idref="055838413">Carlos <nom>Heusch</nom></pers>, <pers idref="178995819"
+                        >Marjorie <nom>Burghart</nom></pers> and <pers orcid="0000-0002-3848-9230"
+                        >Jesús <nom>Rodríguez Velasco</nom></pers>. <titre>La version B du
+                        <titre><titre>Regimiento de los prínçipes</titre> glosado</titre>: étude et
+                        édition critique de III,3</titre></anglais>
                 </entree>
             </annee>
 
@@ -25,7 +29,7 @@
             <annee n="2017-2018">
                 <entree>
                     <francais>Préparation de la thèse (4ème année à l'ÉNS de Lyon). </francais>
-                    <anglais>Preparation of the Ph.D subject.</anglais>
+                    <anglais>Preparation of the Ph.D exam.</anglais>
                 </entree>
                 <entree>
                     <francais>Suivi d'un atelier en édition numérique à Cambridge (Royaume Uni) en
@@ -38,8 +42,8 @@
                         humanités numériques) à Grenoble, organisée par l'Université Grenoble-Alpes
                         et la MSH Alpes (Grenoble, 28 mai-2 juin).</francais>
                     <anglais>2018 EDEEN (<fr>École d'été en humanités numériques</fr>) workshop,
-                        Grenoble University, organized by Elena Pierazzo. 28 may-2 june
-                        2018.</anglais>
+                        Grenoble University, organized by <pers>Elena <nom>Pierazzo</nom></pers>. 28
+                        may-2 june 2018.</anglais>
                 </entree>
                 <entree>
                     <francais>Participation à l'atelier 2018 du consortium CAHIER (Montpellier,
@@ -55,7 +59,7 @@
                 <entree>
                     <francais>Préparation et obtention du concours de l'Agrégation d'Espagnol. </francais>
                     <anglais>Qualified as a teacher after preparing the <fr>Agrégation</fr> in
-                        Spanish (3th/75)</anglais>
+                        Spanish (3th/75).</anglais>
                 </entree>
             </annee>
 
@@ -65,17 +69,17 @@
                     <francais> Master II d'études hispanophones du département d'études lusophones
                         et hispanophones de l'ÉNS de Lyon. Suivi des cours Master <titre>Patrimonio
                         Textual y humanidades digitales</titre> de l’Université de Salamanque dans
-                        le cadre du programme Erasmus. Mémoire préparé sous la direction de
-                        <pers>Carlos <nom>Heusch</nom></pers> et de <pers
-                        orcid="0000-0002-2676-0388">Francisco <nom>Bautista</nom></pers>: "<titre>La
-                        version B du <es><titre>Regimiento de los príncipes</titre>
-                        glosado</es></titre>. Note obtenue: 19. </francais>
+                        le cadre du programme Erasmus. Mémoire préparé sous la direction de <pers
+                        idref="055838413">Carlos <nom>Heusch</nom></pers> et de <pers
+                        orcid="0000-0002-2676-0388">Francisco <nom>Bautista</nom></pers>: <titre>La
+                        version B du <titre><titre>Regimiento de los príncipes</titre>
+                        glosado</titre></titre>. Note obtenue: 19. </francais>
                     <anglais>Master II in Spanish, ÉNS de Lyon. Graduate humanities classes in the
                         University of Salamanca, as an Erasmus Student. Research Dissertation on
                         <titre>Le <titre><titre>Regimiento de los príncipes</titre> glosado</titre>.
                         Étude et édition critique</titre>, supervised by <pers
-                        orcid="0000-0002-2676-0388">Francisco <nom>Bautista</nom></pers> and
-                        <pers>Carlos <nom>Heusch</nom></pers>.</anglais>
+                        orcid="0000-0002-2676-0388">Francisco <nom>Bautista</nom></pers> and <pers
+                        idref="055838413">Carlos <nom>Heusch</nom></pers>.</anglais>
                 </entree>
                 <entree>
                     <francais>Suivi de la formation <en>Digital Encoding of Medieval
@@ -96,9 +100,9 @@
                         castillane et en étude de textes du bas-Moyen Âge. Mémoire préparé sous la
                         direction de Carlos Heusch:<titre>Edición crítica de dos textos de Pedro de
                         Chinchilla</titre>. Note obtenue: 18.</francais>
-                    <anglais>Master I in Spanish, ÉNS de Lyon. Specialization on medieval philology
+                    <anglais>Master I in Spanish, ÉNS de Lyon. Specialization in medieval philology
                         and ecdotics. Dissertation: <titre>Edición crítica de dos textos de Pedro de
-                        Chinchilla</titre>, supervised by <pers>Carlos
+                        Chinchilla</titre>, supervised by <pers idref="055838413">Carlos
                         <nom>Heusch</nom></pers>.</anglais>
                 </entree>
                 <entree>
@@ -125,8 +129,10 @@
                     </entree>
                 </francais>
                 <entree>
-                    <francais>Séminaire d’édition de textes de Gisèle Besson, ÉNS Lyon.</francais>
-                    <anglais>Seminar in ecdotics, Gisèle Besson, ÉNS Lyon.</anglais>
+                    <francais>Séminaire d’édition de textes de <pers>Gisèle
+                        <nom>Besson</nom></pers>, ÉNS Lyon.</francais>
+                    <anglais>Seminar in ecdotics, <pers>Gisèle <nom>Besson</nom></pers>, ÉNS
+                        Lyon.</anglais>
                 </entree>
                 <entree>
                     <francais>Stage d'introduction au Grec ancien (ILOAM, Université de Lausanne,
@@ -147,7 +153,7 @@
                     <francais>Khâgne, Lycée Joffre (Montpellier). Préparation aux concours des ÉNS.
                         Admis à l'ÉNS de Lyon; admissible à l'ÉNS de Paris.</francais>
                     <anglais>Second year of Classe Préparatoire littéraire, Montpellier. Success at
-                        the entrance exam for the ÉNS de Lyon.</anglais>
+                        the entrance exam for the École Normale Supérieure (ÉNS) de Lyon.</anglais>
                 </entree>
             </annee>
 
@@ -155,8 +161,8 @@
             <annee n="2011-2012">
                 <entree>
                     <francais>Hypokhâgne, Lycée Joffre (Montpellier).</francais>
-                    <anglais>First year of Classe Préparatoire littéraire, Montpellier. Success at
-                        the entrance exam for the ÉNS de Lyon.</anglais>
+                    <anglais>First year of Classe Préparatoire littéraire aux Grandes écoles,
+                        Montpellier.</anglais>
                 </entree>
             </annee>
         </cursus>
@@ -177,21 +183,21 @@
                         href="https://github.com/gabays/Cours\_COSME\_2019">here</lien>.</anglais>
                 </entree>
                 <entree>
-                    <francais>Cours de version classique, niveau bac+3</francais>
-                    <anglais>Graduate TD at ÉNS de Lyon, <titre>Version classique</titre>
-                        (translation of text of the <esp>Siglo de Oro</esp>)</anglais>
+                    <francais>Cours de version classique, niveau Master.</francais>
+                    <anglais>Graduate TD at ÉNS de Lyon, <cit><fr>Version classique</fr></cit>
+                        (translation of texts of the spanish <esp>Siglo de Oro</esp>)</anglais>
                 </entree>
                 <entree>
                     <francais>Cours de méthodologie de la recherche. Thème du cours: la publication
-                        scientifique: enjeux économiques, juridiques, éditoriaux et techniques. Une
-                        partie du cours a consisté en une présentation de la publication
-                        scientifique sous ces différents prismes, et une autre a consisté en une
-                        initiation à la production de documents scientifiques avec le
-                        logiciel/langage de typographie LaTeX.</francais>
-                    <anglais>Graduate and undergraduate TD, methodology of research. I focused my
-                        course on the economic, juridic, technical issues of the <cit>scientific
-                        publication</cit>, on one hand; on the other hand I did an introduction to
-                        LaTeX for researchers.</anglais>
+                        scientifique: enjeux économiques, juridiques, éditoriaux et techniques. le
+                        cours a alterné entre présentation de la publication scientifique sous ses
+                        différents prismes et initiation à la production de
+                        documents scientifiques avec le logiciel/langage de typographie
+                        LaTeX.</francais>
+                    <anglais>Graduate and undergraduate TD, <cit><fr>Méthodologie de la
+                        recherche</fr></cit>. I focused my course on the economic, juridic,
+                        technical issues of the <cit>scientific publication</cit>, on one hand; on
+                        the other hand I did an introduction to LaTeX for researchers.</anglais>
                 </entree>
             </annee>
             <annee n="2017-2018">
@@ -235,22 +241,40 @@
 
         <publications>
             <publication>
-                <entree type="dataset"><titre>Modèle de reconnaissance optique de caractères ocropy
-                    - Incunables sévillans
-                    1494-1500</titre><!--ajouter regle dataset +jouer avec les variables pour réduire la quantité de texte-->.
-                    22 décembre 2018. <lien href="https://doi.org/10.5281/zenodo.2504783"><img
-                    lien="../img/zenodo2504784.png" echelle="0.55"/></lien> </entree>
+                <entree type="dataset">
+                    <francais><titre>Modèle de reconnaissance optique de caractères ocropy -
+                        Incunables sévillans 1494-1500</titre> (set de données). 22 décembre 2018.
+                        <lien href="https://doi.org/10.5281/zenodo.2504783"><img
+                        lien="img/zenodo2504784.png" echelle="0.55"/></lien></francais>
+                    <anglais><titre>Modèle de reconnaissance optique de caractères ocropy -
+                        Incunables sévillans 1494-1500</titre> (dataset). 22 december 2018. <lien
+                        href="https://doi.org/10.5281/zenodo.2504783"><img
+                        lien="img/zenodo2504784.png" echelle="0.55"/></lien></anglais>
+                </entree>
             </publication>
             <communications>
-                <entree><titre>L'évolution du <titre>Regimiento de los prínçipes</titre>
-                    (1345-1494), au service du pouvoir ?</titre>Séminaire international:<lien
-                    href="https://recherche.univ-pau.fr/fr/accueil/cpim.html"> Les cultures
-                    politiques dans la Péninsule ibérique et au Maghreb</lien>, <lieu>Bielle</lieu>,
-                    octobre 2019. </entree>
-                <entree><titre>Construire l'édition numérique d'une tradition textuelle complexe:
-                    propositions pour le <titre>Regimiento de los prínçipes</titre></titre>. Atelier
-                    IRPALL <cit>La fabrique du texte</cit>, <lieu>Toulouse</lieu>, février
-                    2019.</entree>
+                <entree>
+                    <francais><titre>L'évolution du <titre>Regimiento de los prínçipes</titre>
+                        (1345-1494), au service du pouvoir ?</titre> Séminaire international: <lien
+                        href="https://recherche.univ-pau.fr/fr/accueil/cpim.html">Les cultures
+                        politiques dans la Péninsule ibérique et au Maghreb</lien>,
+                        <lieu>Bielle</lieu>, octobre 2019. </francais>
+                    <anglais><titre>L'évolution du <titre>Regimiento de los prínçipes</titre>
+                        (1345-1494), au service du pouvoir ?</titre> International doctoral seminar:
+                        <lien href="https://recherche.univ-pau.fr/fr/accueil/cpim.html">Les cultures
+                        politiques dans la Péninsule ibérique et au Maghreb</lien>,
+                        <lieu>Bielle</lieu>, october 2019. </anglais>
+                </entree>
+                <entree>
+                    <francais><titre>Construire l'édition numérique d'une tradition textuelle
+                        complexe: propositions pour le <titre>Regimiento de los
+                        prínçipes</titre></titre>. Atelier IRPALL <cit>La fabrique du texte</cit>,
+                        <lieu>Toulouse</lieu>, février 2019.</francais>
+                    <anglais><titre>Construire l'édition numérique d'une tradition textuelle
+                        complexe: propositions pour le <titre>Regimiento de los
+                        prínçipes</titre></titre>. IRPALL workshop <cit>La fabrique du texte</cit>,
+                        <lieu>Toulouse</lieu>, february 2019.</anglais>
+                </entree>
             </communications>
         </publications>
     </main>
