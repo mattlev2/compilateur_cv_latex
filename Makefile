@@ -1,5 +1,5 @@
 target: 
-	java -jar ~/bin/saxon9ee.jar -o:.tmp cv.xml xsl/cv.xsl
+	java -jar saxon9ee.jar -o:.tmp cv.xml xsl/cv.xsl
 	
 	mv francais/cv_fr.tex .
 	mv francais/ru* .
