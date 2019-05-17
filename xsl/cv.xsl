@@ -510,7 +510,7 @@ Born on </xsl:text>
                 <xsl:apply-templates select="anglais"/>
             </xsl:for-each>
             <xsl:text>
-                \subrubric{Informatic skills}</xsl:text>
+                \subrubric{IT skills}</xsl:text>
             <xsl:for-each select="entree[@type = 'info']">
                 <xsl:text>
                     \entry*

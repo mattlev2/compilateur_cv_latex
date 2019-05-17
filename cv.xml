@@ -29,7 +29,7 @@
             <annee n="2017-2018">
                 <entree>
                     <francais>Préparation de la thèse (4ème année à l'ÉNS de Lyon). </francais>
-                    <anglais>Preparation of the Ph.D exam.</anglais>
+                    <anglais>Preparation for the PhD application process at ENS de Lyon.</anglais>
                 </entree>
                 <entree>
                     <francais>Suivi d'un atelier en édition numérique à Cambridge (Royaume Uni) en
@@ -59,7 +59,7 @@
                 <entree>
                     <francais>Préparation et obtention du concours de l'Agrégation d'Espagnol. </francais>
                     <anglais>Qualified as a teacher after preparing the <fr>Agrégation</fr> in
-                        Spanish (3th/75).</anglais>
+                        Spanish (3rd/75).</anglais>
                 </entree>
             </annee>
 
@@ -121,13 +121,10 @@
 
 
             <annee n="2013-2014">
-                <francais>
-                    <entree>
-                        <francais>Licence 3, Université Lumière Lyon 2-ÉNS de Lyon. </francais>
-                        <anglais>Licence in Spanish, Université Lumière Lyon-II, ÉNS de
-                            Lyon.</anglais>
-                    </entree>
-                </francais>
+                <entree>
+                    <francais>Licence 3, Université Lumière Lyon 2-ÉNS de Lyon. </francais>
+                    <anglais>Licence in Spanish, Université Lumière Lyon-II, ÉNS de Lyon.</anglais>
+                </entree>
                 <entree>
                     <francais>Séminaire d’édition de textes de <pers>Gisèle
                         <nom>Besson</nom></pers>, ÉNS Lyon.</francais>
@@ -170,36 +167,26 @@
 
 
         <enseignement>
-            <annee n="2018-2019">
-                <entree>
-                    <francais>Organisation et animation de la formation <lien
-                        href="https://cosme.hypotheses.org/1117">XSLT COSME 2019</lien> en
-                        collaboration avec trois autres doctorant.es/docteurs. <lien
-                        href="https://github.com/gabays/Cours\_COSME\_2019">Lien vers le dépôt de la
-                        formation</lien>.</francais>
-                    <anglais>Organization and animation of a training course focused on XSLT (<lien
-                        href="https://cosme.hypotheses.org/1117">COSME XSLT Course 2019</lien>).
-                        Link to git repository: <lien
-                        href="https://github.com/gabays/Cours\_COSME\_2019">here</lien>.</anglais>
-                </entree>
-                <entree>
-                    <francais>Cours de version classique, niveau Master.</francais>
-                    <anglais>Graduate TD at ÉNS de Lyon, <cit><fr>Version classique</fr></cit>
-                        (translation of texts of the spanish <esp>Siglo de Oro</esp>)</anglais>
-                </entree>
-                <entree>
-                    <francais>Cours de méthodologie de la recherche. Thème du cours: la publication
-                        scientifique: enjeux économiques, juridiques, éditoriaux et techniques. le
-                        cours a alterné entre présentation de la publication scientifique sous ses
-                        différents prismes et initiation à la production de
-                        documents scientifiques avec le logiciel/langage de typographie
-                        LaTeX.</francais>
-                    <anglais>Graduate and undergraduate TD, <cit><fr>Méthodologie de la
-                        recherche</fr></cit>. I focused my course on the economic, juridic,
-                        technical issues of the <cit>scientific publication</cit>, on one hand; on
-                        the other hand I did an introduction to LaTeX for researchers.</anglais>
-                </entree>
-            </annee>
+            <annee n="2018-2019"> <entree> <francais>Organisation et animation de la formation <lien
+                href="https://cosme.hypotheses.org/1117">XSLT COSME 2019</lien> en collaboration
+                avec trois autres doctorant.es/docteurs. <lien
+                href="https://github.com/gabays/Cours\_COSME\_2019">Lien vers le dépôt de la
+                formation</lien>.</francais> <anglais>Organization of a training course focused on
+                XSLT (<lien href="https://cosme.hypotheses.org/1117">COSME XSLT Course 2019</lien>).
+                Link to git repository: <lien href="https://github.com/gabays/Cours\_COSME\_2019"
+                >here</lien>.</anglais> </entree>c <entree> <francais>Cours de version classique,
+                niveau Master.</francais> <anglais>Graduate TD (tutorial) at ÉNS de Lyon,
+                <cit><fr>Version classique</fr></cit> (translation of texts of the spanish
+                <esp>Siglo de Oro</esp>)</anglais> </entree> <entree> <francais>Cours de
+                méthodologie de la recherche. Thème du cours: la publication scientifique: enjeux
+                économiques, juridiques, éditoriaux et techniques. le cours a alterné entre
+                présentation de la publication scientifique sous ses différents prismes et
+                initiation à la production de documents scientifiques avec le logiciel/langage de
+                typographie LaTeX.</francais> <anglais>Graduate and undergraduate TD,
+                <cit><fr>Méthodologie de la recherche</fr></cit>. I focused my course on the
+                economic, juridic, technical issues of the <cit>scientific publication</cit>, on one
+                hand; on the other hand I did an introduction to LaTeX for researchers.</anglais>
+                </entree> </annee>
             <annee n="2017-2018">
                 <entree>
                     <francais>Poste de khôlleur dans deux lycées lyonnais (La Martinière-Duchère et
@@ -229,7 +216,7 @@
                     Compréhension et utilisation du javascript et du xquery. Expérience dans la
                     construction de bases de données XML. </francais>
                 <anglais>Frequent use of the methods and tools of the digital edition: XML-TEI/P5.
-                    Regular use of the xml, xsl, LaTeX, css, html languages. Current use of bash
+                    Regular use of the xml, xsl, LaTeX, css, html languages. Frequent use of bash
                     scripts. Understanding and use of javascript and XQuery. Experience in
                     construction of XML databases (with eXist-db technologies).</anglais>
             </entree>

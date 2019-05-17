@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.2.24)  13 MAY 2019 22:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.2.24)  17 MAY 2019 13:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -847,11 +847,11 @@ File: img/orcid.png Graphic file (type png)
 <use img/orcid.png>
 Package pdftex.def Info: img/orcid.png  used on input line 60.
 (pdftex.def)             Requested size: 14.77657pt x 12.21764pt.
-) (./rubric2.tex) (./rubric2.tex)
-(./rubric2.tex [1
+ [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./img/i
-dref.png> <./img/orcid.png>]) (./rubric3.tex) (./rubric3.tex)
+dref.png> <./img/orcid.png>]) (./rubric2.tex) (./rubric2.tex) (./rubric2.tex) (
+./rubric3.tex) (./rubric3.tex)
 (./rubric3.tex) (./rubric4.tex) (./rubric4.tex) (./rubric4.tex
 File: img/zenodo2504784.png Graphic file (type png)
 <use img/zenodo2504784.png>
@@ -877,11 +877,11 @@ Package rerunfilecheck Info: Checksums for `cv_fr.out':
 Here is how much of TeX's memory you used:
  10891 strings out of 492616
  160960 string characters out of 6128967
- 283774 words of memory out of 5000000
+ 284774 words of memory out of 5000000
  14597 multiletter control sequences out of 15000+600000
  59823 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,14n,69p,855b,583s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,14n,69p,855b,599s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/fbb/fbb_yjjj42.enc}{/usr/
 local/texlive/2018/texmf-dist/fonts/enc/dvips/fbb/fbb_pv6xl7.enc}{/usr/local/te
 xlive/2018/texmf-dist/fonts/enc/dvips/fbb/fbb_ukqj6n.enc}{/usr/local/texlive/20
@@ -890,7 +890,7 @@ xlive/2018/texmf-dist/fonts/enc/dvips/fbb/fbb_ukqj6n.enc}{/usr/local/texlive/20
 nts/type1/public/fbb/fbb-Bold.pfb></usr/local/texlive/2018/texmf-dist/fonts/typ
 e1/public/fbb/fbb-Italic.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/pu
 blic/fbb/fbb-Regular.pfb>
-Output written on cv_fr.pdf (2 pages, 477223 bytes).
+Output written on cv_fr.pdf (2 pages, 478007 bytes).
 PDF statistics:
  80 PDF objects out of 1000 (max. 8388607)
  48 compressed objects within 1 object stream
